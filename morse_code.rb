@@ -24,7 +24,7 @@ def decode_sentence(sentence)
   end
 end
 
-# decode_char('--') 
-# decode_word('-- -.--') 
-# decode_sentence('-- -.--   -. .- -- .') 
+# decode_char('--')
+# decode_word('-- -.--')
+# decode_sentence('-- -.--   -. .- -- .')
 decode_sentence('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
