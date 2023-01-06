@@ -1,6 +1,6 @@
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Enumerable] <a name="about-project"></a>
+# 📖 [MorseCode Decode] <a name="about-project"></a>
 
 > This task was based on automating morse code decoding using ruby.
 
